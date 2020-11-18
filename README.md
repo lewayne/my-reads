@@ -63,6 +63,38 @@
             - arrow-drop-down.svg
         index.js
 
+# The instructions for installing and launching of the project 
+	+ We use the development environment integrated into the Udacity Classroom. And we used its "SUBMIT PROJET" button to submit our my reads application
+    + Here is the github link of our MyReads project "https://github.com/lewayne/my-reads.git". To install the project:
+    	1 - Open your terminal and then type : git clone https://github.com/lewayne/my-reads.git
+        2 - cd into the new folder and type : yarn install
+        	This installs the required dependencies
+        3 - To run this React project: yarn start
+
+
+    	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
